@@ -1,0 +1,10 @@
+{application,project2,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"project2"},
+              {modules,['Elixir.NeighboursDataHolder','Elixir.NodeDataHolder',
+                        'Elixir.NodeGossipActor','Elixir.NodePushsumActor',
+                        'Elixir.Pro2','Elixir.Project2',
+                        'Elixir.RandomNodeTempList','Elixir.Timer',
+                        'Elixir.Utility']},
+              {registered,[]},
+              {vsn,"0.1.0"}]}.

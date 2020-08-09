@@ -1,0 +1,2493 @@
+line 100 for 0 25 50 75
+
+
+95
+time : 2
+ - - -
+87
+time : 7
+ - - -
+94
+time : 5
+ *** end of 0 *** 
+73
+time : 1
+ - - -
+74
+time : 2
+ - - -
+72
+time : 2
+ *** end of 25 *** 
+49
+time : 0
+ - - -
+49
+time : 1
+ - - -
+50
+time : 1
+ *** end of 50 *** 
+25
+time : 0
+ - - -
+25
+time : 0
+ - - -
+25
+time : 0
+ *** end of 75 ***
+
+
+
+line 250 for 0 25 50 75
+
+
+242
+time : 10
+ - - -
+235
+time : 8
+ - - -
+246
+time : 2
+ *** end of 0 *** 
+185
+time : 1
+ - - -
+186
+time : 1
+ - - -
+185
+time : 0
+ *** end of 25 *** 
+125
+time : 0
+ - - -
+123
+time : 1
+ - - -
+125
+time : 0
+ *** end of 50 *** 
+62
+time : 0
+ - - -
+62
+time : 0
+ - - -
+62
+time : 0
+ *** end of 75 ***
+
+
+
+line 500 for 0 25 50 75
+
+
+488
+time : 6
+ - - -
+493
+time : 4
+ - - -
+492
+time : 9
+ *** end of 0 *** 
+372
+time : 3
+ - - -
+372
+time : 1
+ - - -
+375
+time : 0
+ *** end of 25 *** 
+250
+time : 0
+ - - -
+249
+time : 0
+ - - -
+248
+time : 1
+ *** end of 50 *** 
+124
+time : 1
+ - - -
+125
+time : 0
+ - - -
+125
+time : 0
+ *** end of 75 ***
+
+
+
+line 750 for 0 25 50 75
+
+
+742
+time : 6
+ - - -
+741
+time : 8
+ - - -
+738
+time : 8
+ *** end of 0 *** 
+561
+time : 1
+ - - -
+560
+time : 1
+ - - -
+561
+time : 1
+ *** end of 25 *** 
+374
+time : 0
+ - - -
+373
+time : 1
+ - - -
+374
+time : 0
+ *** end of 50 *** 
+187
+time : 0
+ - - -
+185
+time : 1
+ - - -
+187
+time : 0
+ *** end of 75 ***
+
+
+
+line 1000 for 0 25 50 75
+
+
+984
+time : 10
+ - - -
+991
+time : 4
+ - - -
+994
+time : 5
+ *** end of 0 *** 
+749
+time : 2
+ - - -
+748
+time : 1
+ - - -
+749
+time : 1
+ *** end of 25 *** 
+500
+time : 0
+ - - -
+498
+time : 1
+ - - -
+496
+time : 1
+ *** end of 50 *** 
+250
+time : 0
+ - - -
+248
+time : 1
+ - - -
+249
+time : 1
+ *** end of 75 ***
+
+
+
+line 1500 for 0 25 50 75
+
+
+1489
+time : 7
+ - - -
+1495
+time : 4
+ - - -
+1490
+time : 6
+ *** end of 0 *** 
+1122
+time : 1
+ - - -
+1123
+time : 2
+ - - -
+1125
+time : 0
+ *** end of 25 *** 
+750
+time : 0
+ - - -
+748
+time : 2
+ - - -
+749
+time : 1
+ *** end of 50 *** 
+373
+time : 1
+ - - -
+375
+time : 0
+ - - -
+373
+time : 1
+ *** end of 75 ***
+
+
+
+line 2000 for 0 25 50 75
+
+
+1995
+time : 8
+ - - -
+1990
+time : 6
+ - - -
+1994
+time : 5
+ *** end of 0 *** 
+1498
+time : 2
+ - - -
+1498
+time : 1
+ - - -
+1497
+time : 3
+ *** end of 25 *** 
+998
+time : 1
+ - - -
+998
+time : 1
+ - - -
+1000
+time : 0
+ *** end of 50 *** 
+498
+time : 1
+ - - -
+500
+time : 0
+ - - -
+500
+time : 0
+ *** end of 75 ***
+
+
+
+line 3000 for 0 25 50 75
+
+
+2986
+time : 9
+ - - -
+2995
+time : 7
+ - - -
+2996
+time : 4
+ *** end of 0 *** 
+2249
+time : 2
+ - - -
+2247
+time : 2
+ - - -
+2248
+time : 1
+ *** end of 25 *** 
+1500
+time : 0
+ - - -
+1495
+time : 2
+ - - -
+1499
+time : 1
+ *** end of 50 *** 
+750
+time : 0
+ - - -
+748
+time : 1
+ - - -
+748
+time : 0
+ *** end of 75 ***
+
+
+
+random 2d 5000 for 0 25 50 75
+
+
+4970
+time : 867
+ - - -
+4909
+time : 1047
+ - - -
+4967
+time : 693
+ *** end of 0 *** 
+3785
+time : 39
+ - - -
+3790
+time : 5
+ - - -
+3767
+time : 115
+ *** end of 25 *** 
+2535
+time : 6
+ - - -
+2540
+time : 2
+ - - -
+2538
+time : 5
+ *** end of 50 *** 
+1291
+time : 0
+ - - -
+1290
+time : 1
+ - - -
+1290
+time : 1
+ *** end of 75 ***
+
+
+
+random 2d 10000 for 0 25 50 75
+
+
+9929
+time : 1057
+ - - -
+9908
+time : 1213
+ - - -
+9733
+time : 1626
+ *** end of 0 *** 
+7488
+time : 66
+ - - -
+7494
+time : 112
+ - - -
+7482
+time : 153
+ *** end of 25 *** 
+4998
+time : 4
+ - - -
+4997
+time : 9
+ - - -
+4998
+time : 2
+ *** end of 50 *** 
+2499
+time : 1
+ - - -
+2498
+time : 0
+ - - -
+2498
+time : 1
+ *** end of 75 ***
+
+
+
+new topology
+
+
+full 100 for 0 25 50 75
+
+
+1
+time : 82
+ - - -
+1
+time : 79
+ - - -
+0
+time : 76
+ *** end of 0 *** 
+1
+time : 49
+ - - -
+0
+time : 47
+ - - -
+0
+time : 47
+ *** end of 25 *** 
+1
+time : 24
+ - - -
+0
+time : 24
+ - - -
+1
+time : 24
+ *** end of 50 *** 
+1
+time : 8
+ - - -
+0
+time : 8
+ - - -
+0
+time : 8
+ *** end of 75 ***
+
+
+
+full 250 for 0 25 50 75
+
+
+1
+time : 459
+ - - -
+0
+time : 471
+ - - -
+0
+time : 441
+ *** end of 0 *** 
+0
+time : 269
+ - - -
+1
+time : 259
+ - - -
+1
+time : 269
+ *** end of 25 *** 
+0
+time : 140
+ - - -
+0
+time : 137
+ - - -
+1
+time : 136
+ *** end of 50 *** 
+1
+time : 42
+ - - -
+0
+time : 40
+ - - -
+1
+time : 35
+ *** end of 75 ***
+
+
+
+full 500 for 0 25 50 75
+
+
+1
+time : 1635
+ - - -
+0
+time : 1699
+ - - -
+0
+time : 1654
+ *** end of 0 *** 
+1
+time : 999
+ - - -
+1
+time : 1005
+ - - -
+0
+time : 965
+ *** end of 25 *** 
+1
+time : 472
+ - - -
+1
+time : 491
+ - - -
+0
+time : 465
+ *** end of 50 *** 
+1
+time : 136
+ - - -
+1
+time : 147
+ - - -
+1
+time : 134
+ *** end of 75 ***
+
+
+
+full 750 for 0 25 50 75
+
+
+1
+time : 3653
+ - - -
+1
+time : 3609
+ - - -
+0
+time : 3656
+ *** end of 0 *** 
+1
+time : 2145
+ - - -
+0
+time : 2031
+ - - -
+0
+time : 2077
+ *** end of 25 *** 
+0
+time : 988
+ - - -
+0
+time : 979
+ - - -
+0
+time : 1020
+ *** end of 50 *** 
+0
+time : 273
+ - - -
+1
+time : 303
+ - - -
+1
+time : 274
+ *** end of 75 ***
+
+
+
+full 1000 for 0 25 50 75
+
+
+1
+time : 6185
+ - - -
+1
+time : 6353
+ - - -
+1
+time : 6240
+ *** end of 0 *** 
+1
+time : 3638
+ - - -
+0
+time : 3576
+ - - -
+0
+time : 3475
+ *** end of 25 *** 
+1
+time : 1654
+ - - -
+1
+time : 1697
+ - - -
+1
+time : 1764
+ *** end of 50 *** 
+1
+time : 447
+ - - -
+0
+time : 480
+ - - -
+0
+time : 457
+ *** end of 75 ***
+
+
+
+full 1500 for 0 25 50 75
+
+
+0
+time : 13987
+ - - -
+1
+time : 13840
+ - - -
+1
+time : 14235
+ *** end of 0 *** 
+1
+time : 7944
+ - - -
+1
+time : 7842
+ - - -
+1
+time : 7943
+ *** end of 25 *** 
+1
+time : 3504
+ - - -
+0
+time : 3521
+ - - -
+1
+time : 3628
+ *** end of 50 *** 
+0
+time : 921
+ - - -
+0
+time : 959
+ - - -
+0
+time : 937
+ *** end of 75 ***
+
+
+
+full 2000 for 0 25 50 75
+
+
+0
+time : 24020
+ - - -
+1
+time : 24213
+ - - -
+1
+time : 24467
+ *** end of 0 *** 
+0
+time : 13869
+ - - -
+1
+time : 13958
+ - - -
+1
+time : 13581
+ *** end of 25 *** 
+0
+time : 6243
+ - - -
+1
+time : 6129
+ - - -
+1
+time : 6298
+ *** end of 50 *** 
+0
+time : 1617
+ - - -
+0
+time : 1644
+ - - -
+0
+time : 1680
+ *** end of 75 ***
+
+
+
+full 3000 for 0 25 50 75
+
+
+1
+time : 54736
+ - - -
+1
+time : 53816
+ - - -
+0
+time : 54184
+ *** end of 0 *** 
+0
+time : 30363
+ - - -
+0
+time : 30593
+ - - -
+1
+time : 31610
+ *** end of 25 *** 
+0
+time : 13709
+ - - -
+0
+time : 13973
+ - - -
+1
+time : 14012
+ *** end of 50 *** 
+1
+time : 3570
+ - - -
+0
+time : 3579
+ - - -
+1
+time : 3589
+ *** end of 75 ***
+
+
+
+full 5000 for 0 25 50 75
+
+
+1
+time : 160638
+ - - -
+1
+time : 160334
+ - - -
+0
+time : 150591
+ *** end of 0 *** 
+1
+time : 85269
+ - - -
+0
+time : 84728
+ - - -
+0
+time : 84175
+ *** end of 25 *** 
+1
+time : 37417
+ - - -
+1
+time : 38650
+ - - -
+0
+time : 37887
+ *** end of 50 *** 
+0
+time : 9765
+ - - -
+0
+time : 9768
+ - - -
+0
+time : 9719
+ *** end of 75 ***
+
+
+
+new topology
+
+
+random 2d 100 for 0 25 50 75
+
+
+84
+time : 30
+ - - -
+61
+time : 37
+ - - -
+83
+time : 35
+ *** end of 0 *** 
+69
+time : 15
+ - - -
+70
+time : 11
+ - - -
+72
+time : 15
+ *** end of 25 *** 
+49
+time : 1
+ - - -
+47
+time : 2
+ - - -
+49
+time : 4
+ *** end of 50 *** 
+25
+time : 0
+ - - -
+20
+time : 3
+ - - -
+23
+time : 3
+ *** end of 75 ***
+
+
+
+random 2d 250 for 0 25 50 75
+
+
+216
+time : 83
+ - - -
+225
+time : 80
+ - - -
+232
+time : 73
+ *** end of 0 *** 
+192
+time : 6
+ - - -
+190
+time : 9
+ - - -
+184
+time : 44
+ *** end of 25 *** 
+129
+time : 2
+ - - -
+126
+time : 9
+ - - -
+128
+time : 5
+ *** end of 50 *** 
+66
+time : 1
+ - - -
+67
+time : 0
+ - - -
+66
+time : 3
+ *** end of 75 ***
+
+
+
+random 2d 500 for 0 25 50 75
+
+
+453
+time : 159
+ - - -
+516
+time : 74
+ - - -
+510
+time : 98
+ *** end of 0 *** 
+398
+time : 43
+ - - -
+398
+time : 14
+ - - -
+402
+time : 29
+ *** end of 25 *** 
+275
+time : 4
+ - - -
+273
+time : 9
+ - - -
+279
+time : 0
+ *** end of 50 *** 
+152
+time : 2
+ - - -
+153
+time : 2
+ - - -
+152
+time : 1
+ *** end of 75 ***
+
+
+
+random 2d 750 for 0 25 50 75
+
+
+689
+time : 227
+ - - -
+721
+time : 173
+ - - -
+739
+time : 223
+ *** end of 0 *** 
+594
+time : 15
+ - - -
+595
+time : 4
+ - - -
+584
+time : 77
+ *** end of 25 *** 
+405
+time : 9
+ - - -
+407
+time : 3
+ - - -
+409
+time : 0
+ *** end of 50 *** 
+220
+time : 1
+ - - -
+221
+time : 0
+ - - -
+220
+time : 2
+ *** end of 75 ***
+
+
+
+random 2d 1000 for 0 25 50 75
+
+
+941
+time : 257
+ - - -
+951
+time : 305
+ - - -
+968
+time : 285
+ *** end of 0 *** 
+769
+time : 27
+ - - -
+771
+time : 3
+ - - -
+757
+time : 77
+ *** end of 25 *** 
+519
+time : 15
+ - - -
+523
+time : 0
+ - - -
+523
+time : 2
+ *** end of 50 *** 
+272
+time : 4
+ - - -
+271
+time : 2
+ - - -
+270
+time : 3
+ *** end of 75 ***
+
+
+
+random 2d 1500 for 0 25 50 75
+
+
+1479
+time : 307
+ - - -
+1370
+time : 437
+ - - -
+1478
+time : 214
+ *** end of 0 *** 
+1141
+time : 31
+ - - -
+1139
+time : 91
+ - - -
+1139
+time : 72
+ *** end of 25 *** 
+769
+time : 1
+ - - -
+768
+time : 4
+ - - -
+767
+time : 8
+ *** end of 50 *** 
+396
+time : 0
+ - - -
+396
+time : 0
+ - - -
+395
+time : 1
+ *** end of 75 ***
+
+
+
+random 2d 2000 for 0 25 50 75
+
+
+1971
+time : 295
+ - - -
+1946
+time : 473
+ - - -
+1953
+time : 508
+ *** end of 0 *** 
+1518
+time : 74
+ - - -
+1523
+time : 31
+ - - -
+1520
+time : 113
+ *** end of 25 *** 
+1023
+time : 3
+ - - -
+1021
+time : 9
+ - - -
+1025
+time : 0
+ *** end of 50 *** 
+524
+time : 1
+ - - -
+524
+time : 2
+ - - -
+523
+time : 2
+ *** end of 75 ***
+
+
+
+random 2d 3000 for 0 25 50 75
+
+
+2987
+time : 368
+ - - -
+2988
+time : 512
+ - - -
+2955
+time : 481
+ *** end of 0 *** 
+2273
+time : 33
+ - - -
+2264
+time : 30
+ - - -
+2269
+time : 38
+ *** end of 25 *** 
+1522
+time : 6
+ - - -
+1522
+time : 5
+ - - -
+1525
+time : 0
+ *** end of 50 *** 
+771
+time : 4
+ - - -
+770
+time : 3
+ - - -
+775
+time : 1
+ *** end of 75 ***
+
+
+
+random 2d 5000 for 0 25 50 75
+
+
+4956
+time : 300
+ - - -
+4984
+time : 491
+ - - -
+4893
+time : 1127
+ *** end of 0 *** 
+3790
+time : 17
+ - - -
+3788
+time : 23
+ - - -
+3786
+time : 52
+ *** end of 25 *** 
+2536
+time : 6
+ - - -
+2539
+time : 2
+ - - -
+2540
+time : 1
+ *** end of 50 *** 
+1291
+time : 0
+ - - -
+1289
+time : 2
+ - - -
+1291
+time : 0
+ *** end of 75 ***
+
+
+
+random 2d 10000 for 0 25 50 75
+
+
+9924
+time : 1450
+ - - -
+9915
+time : 1234
+ - - -
+9796
+time : 1568
+ *** end of 0 *** 
+7486
+time : 96
+ - - -
+7469
+time : 282
+ - - -
+7489
+time : 54
+ *** end of 25 *** 
+4999
+time : 3
+ - - -
+4996
+time : 4
+ - - -
+4996
+time : 5
+ *** end of 50 *** 
+2500
+time : 0
+ - - -
+2500
+time : 0
+ - - -
+2499
+time : 1
+ *** end of 75 ***
+
+
+
+new topology
+
+
+honey comb 100 for 0 25 50 75
+
+
+99
+time : 17
+ - - -
+99
+time : 18
+ - - -
+96
+time : 22
+ *** end of 0 *** 
+83
+time : 5
+ - - -
+81
+time : 6
+ - - -
+82
+time : 3
+ *** end of 25 *** 
+55
+time : 3
+ - - -
+58
+time : 0
+ - - -
+59
+time : 1
+ *** end of 50 *** 
+35
+time : 0
+ - - -
+35
+time : 0
+ - - -
+35
+time : 1
+ *** end of 75 ***
+
+
+
+honey comb 250 for 0 25 50 75
+
+
+220
+time : 32
+ - - -
+199
+time : 63
+ - - -
+217
+time : 51
+ *** end of 0 *** 
+176
+time : 7
+ - - -
+174
+time : 5
+ - - -
+175
+time : 5
+ *** end of 25 *** 
+113
+time : 2
+ - - -
+113
+time : 1
+ - - -
+114
+time : 1
+ *** end of 50 *** 
+52
+time : 0
+ - - -
+52
+time : 0
+ - - -
+52
+time : 0
+ *** end of 75 ***
+
+
+
+honey comb 500 for 0 25 50 75
+
+
+485
+time : 95
+ - - -
+496
+time : 58
+ - - -
+473
+time : 107
+ *** end of 0 *** 
+378
+time : 21
+ - - -
+374
+time : 15
+ - - -
+375
+time : 20
+ *** end of 25 *** 
+254
+time : 3
+ - - -
+254
+time : 2
+ - - -
+256
+time : 0
+ *** end of 50 *** 
+131
+time : 0
+ - - -
+130
+time : 1
+ - - -
+131
+time : 0
+ *** end of 75 ***
+
+
+
+honey comb 750 for 0 25 50 75
+
+
+707
+time : 154
+ - - -
+727
+time : 172
+ - - -
+702
+time : 151
+ *** end of 0 *** 
+565
+time : 13
+ - - -
+566
+time : 8
+ - - -
+559
+time : 25
+ *** end of 25 *** 
+381
+time : 0
+ - - -
+379
+time : 1
+ - - -
+379
+time : 0
+ *** end of 50 *** 
+192
+time : 2
+ - - -
+191
+time : 1
+ - - -
+193
+time : 0
+ *** end of 75 ***
+
+
+
+honey comb 1000 for 0 25 50 75
+
+
+974
+time : 94
+ - - -
+923
+time : 154
+ - - -
+955
+time : 191
+ *** end of 0 *** 
+740
+time : 10
+ - - -
+740
+time : 10
+ - - -
+738
+time : 37
+ *** end of 25 *** 
+490
+time : 1
+ - - -
+488
+time : 5
+ - - -
+492
+time : 0
+ *** end of 50 *** 
+242
+time : 0
+ - - -
+242
+time : 0
+ - - -
+242
+time : 0
+ *** end of 75 ***
+
+
+
+honey comb 1500 for 0 25 50 75
+
+
+1436
+time : 250
+ - - -
+1439
+time : 172
+ - - -
+1409
+time : 206
+ *** end of 0 *** 
+1104
+time : 12
+ - - -
+1105
+time : 1
+ - - -
+1106
+time : 3
+ *** end of 25 *** 
+727
+time : 3
+ - - -
+730
+time : 1
+ - - -
+731
+time : 4
+ *** end of 50 *** 
+357
+time : 0
+ - - -
+355
+time : 1
+ - - -
+356
+time : 1
+ *** end of 75 ***
+
+
+
+honey comb 2000 for 0 25 50 75
+
+
+1969
+time : 124
+ - - -
+1930
+time : 257
+ - - -
+1969
+time : 180
+ *** end of 0 *** 
+1472
+time : 20
+ - - -
+1479
+time : 1
+ - - -
+1476
+time : 8
+ *** end of 25 *** 
+979
+time : 2
+ - - -
+975
+time : 3
+ - - -
+977
+time : 2
+ *** end of 50 *** 
+478
+time : 2
+ - - -
+479
+time : 1
+ - - -
+478
+time : 1
+ *** end of 75 ***
+
+
+
+honey comb 3000 for 0 25 50 75
+
+
+2947
+time : 165
+ - - -
+2912
+time : 314
+ - - -
+2949
+time : 106
+ *** end of 0 *** 
+2217
+time : 5
+ - - -
+2218
+time : 19
+ - - -
+2214
+time : 18
+ *** end of 25 *** 
+1466
+time : 2
+ - - -
+1469
+time : 1
+ - - -
+1468
+time : 2
+ *** end of 50 *** 
+718
+time : 1
+ - - -
+718
+time : 0
+ - - -
+720
+time : 0
+ *** end of 75 ***
+
+
+
+honey comb 5000 for 0 25 50 75
+
+
+4941
+time : 229
+ - - -
+4933
+time : 289
+ - - -
+4930
+time : 344
+ *** end of 0 *** 
+3717
+time : 13
+ - - -
+3719
+time : 8
+ - - -
+3717
+time : 7
+ *** end of 25 *** 
+2469
+time : 3
+ - - -
+2469
+time : 1
+ - - -
+2468
+time : 0
+ *** end of 50 *** 
+1220
+time : 0
+ - - -
+1219
+time : 1
+ - - -
+1219
+time : 1
+ *** end of 75 ***
+
+
+
+honey comb 10000 for 0 25 50 75
+
+
+10084
+time : 228
+ - - -
+10085
+time : 412
+ - - -
+10053
+time : 1014
+ *** end of 0 *** 
+7586
+time : 39
+ - - -
+7599
+time : 1
+ - - -
+7586
+time : 28
+ *** end of 25 *** 
+5097
+time : 4
+ - - -
+5099
+time : 3
+ - - -
+5098
+time : 2
+ *** end of 50 *** 
+2600
+time : 0
+ - - -
+2600
+time : 0
+ - - -
+2599
+time : 1
+ *** end of 75 ***
+
+
+
+new topology
+
+
+3d torus 100 for 0 25 50 75
+
+
+81
+time : 63
+ - - -
+43
+time : 76
+ - - -
+60
+time : 77
+ *** end of 0 *** 
+80
+time : 45
+ - - -
+72
+time : 48
+ - - -
+50
+time : 55
+ *** end of 25 *** 
+61
+time : 25
+ - - -
+69
+time : 22
+ - - -
+52
+time : 34
+ *** end of 50 *** 
+43
+time : 13
+ - - -
+46
+time : 16
+ - - -
+46
+time : 14
+ *** end of 75 ***
+
+
+
+3d torus 250 for 0 25 50 75
+
+
+212
+time : 214
+ - - -
+130
+time : 245
+ - - -
+155
+time : 220
+ *** end of 0 *** 
+236
+time : 142
+ - - -
+220
+time : 159
+ - - -
+258
+time : 125
+ *** end of 25 *** 
+199
+time : 88
+ - - -
+200
+time : 78
+ - - -
+202
+time : 93
+ *** end of 50 *** 
+152
+time : 38
+ - - -
+154
+time : 26
+ - - -
+152
+time : 28
+ *** end of 75 ***
+
+
+
+3d torus 500 for 0 25 50 75
+
+
+279
+time : 310
+ - - -
+274
+time : 325
+ - - -
+345
+time : 317
+ *** end of 0 *** 
+281
+time : 180
+ - - -
+311
+time : 182
+ - - -
+370
+time : 144
+ *** end of 25 *** 
+223
+time : 108
+ - - -
+252
+time : 73
+ - - -
+252
+time : 80
+ *** end of 50 *** 
+136
+time : 2
+ - - -
+137
+time : 0
+ - - -
+130
+time : 9
+ *** end of 75 ***
+
+
+
+3d torus 750 for 0 25 50 75
+
+
+481
+time : 659
+ - - -
+761
+time : 561
+ - - -
+837
+time : 547
+ *** end of 0 *** 
+703
+time : 388
+ - - -
+738
+time : 392
+ - - -
+688
+time : 420
+ *** end of 25 *** 
+593
+time : 187
+ - - -
+612
+time : 209
+ - - -
+613
+time : 142
+ *** end of 50 *** 
+436
+time : 50
+ - - -
+433
+time : 19
+ - - -
+431
+time : 44
+ *** end of 75 ***
+
+
+
+3d torus 1000 for 0 25 50 75
+
+
+743
+time : 584
+ - - -
+684
+time : 577
+ - - -
+760
+time : 601
+ *** end of 0 *** 
+698
+time : 330
+ - - -
+707
+time : 296
+ - - -
+739
+time : 234
+ *** end of 25 *** 
+483
+time : 125
+ - - -
+493
+time : 80
+ - - -
+486
+time : 132
+ *** end of 50 *** 
+249
+time : 3
+ - - -
+249
+time : 2
+ - - -
+249
+time : 6
+ *** end of 75 ***
+
+
+
+3d torus 1500 for 0 25 50 75
+
+
+1254
+time : 987
+ - - -
+1142
+time : 1061
+ - - -
+1096
+time : 1084
+ *** end of 0 *** 
+1261
+time : 549
+ - - -
+1260
+time : 577
+ - - -
+1297
+time : 484
+ *** end of 25 *** 
+966
+time : 205
+ - - -
+975
+time : 121
+ - - -
+958
+time : 255
+ *** end of 50 *** 
+602
+time : 1
+ - - -
+600
+time : 23
+ - - -
+601
+time : 13
+ *** end of 75 ***
+
+
+
+3d torus 2000 for 0 25 50 75
+
+
+1355
+time : 1425
+ - - -
+2049
+time : 957
+ - - -
+1819
+time : 1244
+ *** end of 0 *** 
+1680
+time : 500
+ - - -
+1597
+time : 683
+ - - -
+1590
+time : 664
+ *** end of 25 *** 
+1184
+time : 239
+ - - -
+1176
+time : 270
+ - - -
+1196
+time : 113
+ *** end of 50 *** 
+695
+time : 4
+ - - -
+694
+time : 15
+ - - -
+693
+time : 19
+ *** end of 75 ***
+
+
+
+3d torus 3000 for 0 25 50 75
+
+
+2751
+time : 1737
+ - - -
+2324
+time : 2099
+ - - -
+2403
+time : 1994
+ *** end of 0 *** 
+2577
+time : 835
+ - - -
+2469
+time : 1023
+ - - -
+2591
+time : 779
+ *** end of 25 *** 
+1863
+time : 327
+ - - -
+1864
+time : 321
+ - - -
+1851
+time : 349
+ *** end of 50 *** 
+1118
+time : 12
+ - - -
+1119
+time : 11
+ - - -
+1123
+time : 5
+ *** end of 75 ***
+
+
+
+3d torus 5000 for 0 25 50 75
+
+
+4901
+time : 3187
+ - - -
+4812
+time : 3304
+ - - -
+5176
+time : 3085
+ *** end of 0 *** 
+4414
+time : 1646
+ - - -
+4437
+time : 1680
+ - - -
+4279
+time : 1880
+ *** end of 25 *** 
+3328
+time : 253
+ - - -
+3317
+time : 532
+ - - -
+3327
+time : 409
+ *** end of 50 *** 
+2080
+time : 13
+ - - -
+2081
+time : 10
+ - - -
+2082
+time : 1
+ *** end of 75 ***
+
+
+
+3d torus 10000 for 0 25 50 75
+
+
+8621
+time : 6089
+ - - -
+9205
+time : 5697
+ - - -
+8222
+time : 6218
+ *** end of 0 *** 
+7986
+time : 2458
+ - - -
+8053
+time : 2330
+ - - -
+8023
+time : 2338
+ *** end of 25 *** 
+5635
+time : 552
+ - - -
+5644
+time : 55
+ - - -
+5641
+time : 578
+ *** end of 50 *** 
+3141
+time : 10
+ - - -
+3147
+time : 5
+ - - -
+3143
+time : 12
+ *** end of 75 ***
+
+
+
+new topology
+
+
+random honey comb 100 for 0 25 50 75
+
+
+83
+time : 9
+ - - -
+80
+time : 20
+ - - -
+72
+time : 24
+ *** end of 0 *** 
+62
+time : 6
+ - - -
+64
+time : 8
+ - - -
+64
+time : 2
+ *** end of 25 *** 
+37
+time : 1
+ - - -
+38
+time : 0
+ - - -
+39
+time : 1
+ *** end of 50 *** 
+13
+time : 0
+ - - -
+13
+time : 1
+ - - -
+13
+time : 1
+ *** end of 75 ***
+
+
+
+random honey comb 250 for 0 25 50 75
+
+
+178
+time : 56
+ - - -
+204
+time : 33
+ - - -
+195
+time : 48
+ *** end of 0 *** 
+145
+time : 1
+ - - -
+147
+time : 0
+ - - -
+145
+time : 3
+ *** end of 25 *** 
+85
+time : 0
+ - - -
+84
+time : 0
+ - - -
+83
+time : 1
+ *** end of 50 *** 
+20
+time : 1
+ - - -
+22
+time : 0
+ - - -
+22
+time : 0
+ *** end of 75 ***
+
+
+
+random honey comb 500 for 0 25 50 75
+
+
+420
+time : 109
+ - - -
+431
+time : 80
+ - - -
+444
+time : 80
+ *** end of 0 *** 
+332
+time : 14
+ - - -
+336
+time : 2
+ - - -
+329
+time : 17
+ *** end of 25 *** 
+210
+time : 1
+ - - -
+211
+time : 1
+ - - -
+212
+time : 0
+ *** end of 50 *** 
+85
+time : 0
+ - - -
+87
+time : 0
+ - - -
+86
+time : 1
+ *** end of 75 ***
+
+
+
+random honey comb 750 for 0 25 50 75
+
+
+641
+time : 146
+ - - -
+675
+time : 82
+ - - -
+694
+time : 36
+ *** end of 0 *** 
+513
+time : 3
+ - - -
+505
+time : 20
+ - - -
+511
+time : 7
+ *** end of 25 *** 
+327
+time : 0
+ - - -
+326
+time : 1
+ - - -
+327
+time : 0
+ *** end of 50 *** 
+139
+time : 0
+ - - -
+138
+time : 1
+ - - -
+138
+time : 1
+ *** end of 75 ***
+
+
+
+random honey comb 1000 for 0 25 50 75
+
+
+888
+time : 163
+ - - -
+915
+time : 50
+ - - -
+896
+time : 141
+ *** end of 0 *** 
+676
+time : 16
+ - - -
+678
+time : 6
+ - - -
+670
+time : 16
+ *** end of 25 *** 
+429
+time : 2
+ - - -
+428
+time : 1
+ - - -
+428
+time : 2
+ *** end of 50 *** 
+180
+time : 0
+ - - -
+178
+time : 1
+ - - -
+180
+time : 1
+ *** end of 75 ***
+
+
+
+random honey comb 1500 for 0 25 50 75
+
+
+1392
+time : 81
+ - - -
+1402
+time : 41
+ - - -
+1362
+time : 181
+ *** end of 0 *** 
+1029
+time : 1
+ - - -
+1029
+time : 6
+ - - -
+1029
+time : 13
+ *** end of 25 *** 
+654
+time : 2
+ - - -
+652
+time : 4
+ - - -
+656
+time : 0
+ *** end of 50 *** 
+279
+time : 1
+ - - -
+279
+time : 1
+ - - -
+279
+time : 0
+ *** end of 75 ***
+
+
+
+random honey comb 2000 for 0 25 50 75
+
+
+1848
+time : 238
+ - - -
+1842
+time : 229
+ - - -
+1866
+time : 245
+ *** end of 0 *** 
+1385
+time : 16
+ - - -
+1389
+time : 4
+ - - -
+1389
+time : 26
+ *** end of 25 *** 
+891
+time : 1
+ - - -
+890
+time : 1
+ - - -
+890
+time : 1
+ *** end of 50 *** 
+391
+time : 1
+ - - -
+392
+time : 0
+ - - -
+390
+time : 1
+ *** end of 75 ***
+
+
+
+random honey comb 3000 for 0 25 50 75
+
+
+2781
+time : 369
+ - - -
+2780
+time : 417
+ - - -
+2840
+time : 236
+ *** end of 0 *** 
+2111
+time : 8
+ - - -
+2108
+time : 2
+ - - -
+2106
+time : 21
+ *** end of 25 *** 
+1359
+time : 4
+ - - -
+1361
+time : 2
+ - - -
+1360
+time : 3
+ *** end of 50 *** 
+612
+time : 0
+ - - -
+612
+time : 0
+ - - -
+612
+time : 1
+ *** end of 75 ***
+
+
+
+random honey comb 5000 for 0 25 50 75
+
+
+4792
+time : 329
+ - - -
+4810
+time : 154
+ - - -
+4800
+time : 100
+ *** end of 0 *** 
+3578
+time : 6
+ - - -
+3575
+time : 25
+ - - -
+3575
+time : 9
+ *** end of 25 *** 
+2330
+time : 0
+ - - -
+2321
+time : 5
+ - - -
+2328
+time : 4
+ *** end of 50 *** 
+1078
+time : 0
+ - - -
+1078
+time : 1
+ - - -
+1080
+time : 0
+ *** end of 75 ***
+
+
+
+random honey comb 10000 for 0 25 50 75
+
+
+9802
+time : 547
+ - - -
+9857
+time : 219
+ - - -
+9876
+time : 346
+ *** end of 0 *** 
+7397
+time : 13
+ - - -
+7399
+time : 20
+ - - -
+7390
+time : 29
+ *** end of 25 *** 
+4899
+time : 1
+ - - -
+4898
+time : 5
+ - - -
+4898
+time : 2
+ *** end of 50 *** 
+2398
+time : 1
+ - - -
+2400
+time : 0
+ - - -
+2400
+time : 0
+ *** end of 75 ***
+
+
+
